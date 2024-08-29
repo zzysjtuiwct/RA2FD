@@ -3,4 +3,4 @@
 2. run KnowledgeInjection_Mistral.py to inject knowledge into language model.
 3. run Pure_Decoder_train.sh to finetune Mistral.
 4. run Parameter_Knowledge_Multilabel_train.sh to finetune Mistral using RA2FD
-5. Replace Mistral with Llama or replace wow with DSTC9 dataset to run different experiments.
+5. Replace Mistral with Llama or replace DSTC9 with wow  dataset to run different experiments.
